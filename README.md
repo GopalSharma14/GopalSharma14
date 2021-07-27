@@ -46,4 +46,10 @@
 ![IntelliJIdea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
+<br />
+
+<a href="https://github.com/gopalsharma14/github-readme-stats">
+   <img width="60%" alt="Gopal's github stats" src="https://github-readme-stats.vercel.app/api?username=GopalSharma14&show_icons=true&hide_border=true" />
+</a>
+
 
