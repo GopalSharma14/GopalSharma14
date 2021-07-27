@@ -52,4 +52,7 @@
    <img width="60%" alt="Gopal's github stats" src="https://github-readme-stats.vercel.app/api?username=GopalSharma14&show_icons=true&hide_border=true" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalsharma14&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/gopalsharma14/github-readme-stats)
+
+
 
