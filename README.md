@@ -12,9 +12,6 @@
 </a> -->
 
 
-<br />
-<br />
-
 **About Me!**
 
 - I’m currently working as a Technology Lead for Infosys. 
