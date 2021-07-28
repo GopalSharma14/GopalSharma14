@@ -1,7 +1,7 @@
 ### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm Gopal Sharma 👋
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GopalSharma14/&title=Profile%20Views)
 
-<a href="https://www.linkedin.com/in/sharmagop-140291/">
+<!-- <a href="https://www.linkedin.com/in/sharmagop-140291/">
   <img align="left" alt="Gopal's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/gopalsharma_/">
@@ -9,7 +9,7 @@
 </a>
 <a href="https://www.facebook.com/gosharma91/">
   <img align="left" alt="Gopal's Facebook" width="24px" src="https://img.icons8.com/nolan/96/facebook.png" />
-</a>
+</a> -->
 
 
 <br />
@@ -53,6 +53,22 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalsharma14&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/gopalsharma14/github-readme-stats)
+
+
+<br/>
+
+## Let's Connect
+<p align="center">
+	<a href="mailto:gosharma91@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/GopalSharma14"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sharmagop-140291/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/gosharma91/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/gopalsharma_/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	
+</p>
+
+<hr/>
+
 
 
 
